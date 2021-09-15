@@ -1,0 +1,51 @@
+#Mike{color: powderblue;
+    background-color: royalblue;
+}
+#class{color:royalblue;
+    background-color: powderblue;
+}
+#class:hover{
+    background-color: royalblue;
+    color:rgb(137, 212, 170)
+}
+#mike:hover{
+    background-color: powderblue;
+    color:seagreen
+}
+ol{
+    font-family: fantasy;
+}
+table{
+    margin:auto;
+    border: solid 2px black; 
+    
+}
+div{
+    
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.center{ 
+    margin:auto;
+}
+#silence{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.table_cell{ 
+    border: solid thin;
+}
+.ferris_1{
+    background-color: turquoise;
+}
+.ferris_2{
+    background-color: rgb(229, 245, 243);
+}
+.fontchange{
+    font-family: cursive;
+}
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: azure;  
+    }
+}
